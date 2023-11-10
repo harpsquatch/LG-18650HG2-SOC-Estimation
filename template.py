@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format = '[%(asctime)s]:%(message)s:')
 #Format could be FORMAT = '%(asctime)s %(clientip)-15s %(user)-8s %(message)s' where client IP, username can also be recorded recorded
 
-project_name = "SOC-Estimation"
+project_name = "SOCEst"
 
 #We can automatize the process of creating required files and folders with the following code: 
 
