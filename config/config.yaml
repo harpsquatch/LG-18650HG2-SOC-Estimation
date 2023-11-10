@@ -1,0 +1,18 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/cp3473x7xv-3.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+
+
+
+
+
+
+
+
