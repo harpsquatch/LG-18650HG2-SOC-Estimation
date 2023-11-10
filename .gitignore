@@ -158,3 +158,425 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/FNN_xEV_Li_ion_SOC_EstimatorScript_March_2020.mlx
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/Instructions for Downloading and Running the Script.txt
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/Plot_results.m
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/Readme file - Description of Experimental Tests.txt
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/Technical Information and Experimental Test Results for LG 18650HG2.pdf
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_01.14 589_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_04.35 589_Mixed2_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_06.36 589_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_14.21 590_Mixed4_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_16.16 590_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_19.37 590_Mixed5_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/01-12-18_21.26 590_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_00.47 590_Mixed6_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_02.32 590_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_05.53 590_Mixed7_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_07.36 590_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_10.57 590_Mixed8_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_13.05 590_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_16.25 590_PausCycl_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/02-12-18_17.10 590_Charge16.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-26-18_22.46 585_HPPC_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-27-18_20.41 585_C20DisCh_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-29-18_10.02 585_Dis_0p5C_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-29-18_15.07 585_Dis_2C_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-29-18_18.53 589_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-29-18_20.59 589_Cap_1C_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-29-18_22.00 589_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_01.23 589_UDDS_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_05.18 589_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_08.39 589_HWFET_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_10.03 589_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_13.24 589_LA92_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_15.41 589_Charge5.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_19.02 589_US06_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_20.00 589_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/11-30-18_23.20 589_Mixed1_0degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/585_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/585_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/585_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/585_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/589_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Charge16.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/0degC/590_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-13-18_18.38 567_US06_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-13-18_19.44 567_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-13-18_23.07 567_Mixed1_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_01.08 567_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_04.32 567_Mixed2_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_06.42 567_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_10.06 571_Cap_1C.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_11.07 571_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_14.31 571_Mixed4_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_16.35 571_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_19.56 571_Mixed5_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-14-18_21.49 571_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-15-18_01.10 571_Mixed6_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-15-18_13.39 571_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-15-18_17.01 571_Mixed7_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-15-18_18.57 571_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-15-18_22.19 571_Mixed8_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-16-18_00.35 571_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-16-18_03.56 571_PausCycl_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-16-18_04.44 571_Charge16.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-16-18_20.44 575_HPPC_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-17-18_20.39 575_C20DisCh_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-19-18_11.33 575_Dis_0p5C_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-19-18_16.47 575_Dis_2C_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-19-18_20.38 576_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-19-18_22.43 576_Cap_1C_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-19-18_23.46 576_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-20-18_03.10 576_UDDS_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-20-18_07.19 576_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-20-18_10.41 576_HWFET_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-20-18_12.10 576_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/11-25-18_20.59 582_LA92_10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/567_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Charge16.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/571_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/575_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/575_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/575_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/575_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/576_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/10degC/582_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-25-18_04.09 549_Charge.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-25-18_07.39 549_HPPC_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-26-18_09.29 549_C20DisCh_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_01.48 549_Dis_0p5C_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_07.09 549_Dis_2C_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_11.04 551_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_13.10 551_Cap_1C_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_14.16 551_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_17.44 551_UDDS_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-28-18_22.11 551_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_01.36 551_HWFET_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_01.47 551_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_03.53 551_LA92_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_06.42 551_Charge5.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_10.08 551_US06_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_11.15 551_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_14.41 551_Mixed1_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_16.50 551_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_20.16 551_Mixed2_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-29-18_22.29 551_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_01.54 552_Cap_1C_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_03.00 552_Charge9.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_06.27 552_Mixed3_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_08.31 552_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_11.56 552_Mixed4_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_14.12 552_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_17.36 552_Mixed5_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_19.38 552_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-30-18_23.02 552_Mixed6_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_01.13 552_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_04.38 552_Mixed7_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_06.41 552_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_10.05 552_Mixed8_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_12.30 552_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_15.54 552_PausCycl_25degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/10-31-18_17.41 552_Charge16.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/549_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/549_Charge.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/549_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/549_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/549_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/551_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge9.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Charge16.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/25degC/552_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-02-18_18.30 555_HPPC_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-03-18_18.25 555_C20DisCh_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-05-18_09.24 555_Dis_0p5C_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-05-18_14.39 555_Dis_2C_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-05-18_17.32 556_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-05-18_20.44 556_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_00.10 556_UDDS_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_04.36 556_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_08.01 556_HWFET_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_09.35 556_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_12.59 556_LA92_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_15.45 556_Charge5.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_19.09 556_US06_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_20.17 556_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-06-18_23.41 556_Mixed1_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_01.47 556_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_05.12 556_Mixed2_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_07.24 556_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_10.49 557_Cap_1C_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_11.51 557_Charge9.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_15.14 557_Mixed3_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-07-18_17.08 557_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_04.31 562_Mixed4_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_04.51 562_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_07.11 562_Mixed5_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_07.34 562_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_09.53 562_Mixed6_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_10.13 562_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_12.33 562_Mixed7_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_12.47 562_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_15.06 562_Mixed8_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_15.31 562_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_17.50 562_PausCycl_40degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/11-08-18_18.04 562_Charge16.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/555_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/555_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/555_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/555_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/556_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/557_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/557_Charge9.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/557_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/557_Mixed3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Charge16.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/40degC/562_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-04-18_22.00 593_HPPC_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-05-18_20.13 593_C20DisCh_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_08.55 593_Dis_0p5C_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_13.54 593_Dis_2C_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_17.27 596_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_19.33 596_Cap_1C_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_20.30 596_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-07-18_23.49 596_UDDS_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-08-18_03.16 596_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-08-18_06.34 596_HWFET_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-08-18_07.49 596_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-08-18_11.07 596_LA92_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-08-18_13.08 596_Charge5.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_03.03 601_US06_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_03.57 601_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_07.14 601_Mixed1_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_08.59 601_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_12.16 601_Mixed2_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_14.06 601_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_17.24 602_Charge17.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_19.30 602_Cap_1C_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_20.26 602_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-15-18_23.45 602_Mixed4_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-16-18_01.35 602_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-16-18_04.52 602_Mixed5_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-16-18_06.34 602_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-17-18_19.32 604_Charge17.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-17-18_22.42 604_Charge9.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_02.00 604_Mixed3_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_03.33 604_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_06.50 604_Mixed6_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_08.25 604_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_11.41 604_Mixed7_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_13.16 604_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_16.32 604_Mixed8_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_18.26 604_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_21.42 604_PausCycl_n10degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/12-18-18_22.20 604_Charge16.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/593_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/593_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/593_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/593_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_Charge5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/596_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/601_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Charge17.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/602_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge9.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge16.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Charge17.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Mixed3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n10degC/604_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-21-18_13.25 607_HPPC_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-22-18_09.52 607_C20DisCh_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-22-18_21.39 607_Dis_0p5C_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_02.18 607_Dis_2C_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_05.33 610_Charge1.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_07.38 610_Cap_1C_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_08.23 610_Charge2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_11.30 610_UDDS_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_13.48 610_Charge3.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_16.54 610_HWFET_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_17.51 610_Charge4.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-18_20.56 610_LA92_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-24-1822.25 610_Charge5.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_01.31 610_US06_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_02.18 610_Charge6.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_05.24 610_Mixed1_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_06.41 610_Charge7.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_09.47 610_Mixed2_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_11.00 610_Charge8.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_14.07 611_Charge17.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_16.13 611_Cap_1C_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_16.57 611_Charge9.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_20.04 611_Mixed3_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-25-18_21.20 611_Charge10.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_00.25 611_Mixed4_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_01.43 611_Charge11.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_04.48 611_Mixed5_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_06.05 611_Charge12.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_09.11 611_Mixed6_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_10.25 611_Charge13.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_13.31 611_Mixed7_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_14.40 611_Charge14.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_17.45 611_Mixed8_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_19.04 611_Charge15.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/12-26-18_22.10 611_PausCycl_n20degC_LGHG2.mat
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/607_C20DisCh.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/607_Dis_0p5C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/607_Dis_2C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/607_HPPC.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Charge8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_HWFET.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_LA92.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Mixed1.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_Mixed2.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_UDDS.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/610_US06.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Cap_1C.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge9.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge10.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge11.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge12.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge13.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge14.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge15.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Charge17.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed3.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed4.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed5.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed6.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed7.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_Mixed8.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020/n20degC/611_PausCycl.csv
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Prepared_Dataset_McMasterUniversity_Jan_2020/Data Preparation Steps for FNN Based SOC Estimator.pptx
+artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Prepared_Dataset_McMasterUniversity_Jan_2020/LGHG2@n10C_to_25degC.zip
+artifacts/data_ingestion/data.zip
