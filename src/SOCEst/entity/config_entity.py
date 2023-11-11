@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from pathlib import Path
-
+from typing import List  # Add this import
 
 @dataclass(frozen=True)   #This is a decorator
 class DataIngestionConfig:
@@ -15,7 +15,15 @@ class DataIngestionConfig:
 class DataTransformationConfig:
     root_dir: Path 
     data_path: Path
-
+    train_names: List[str]
+    test_names: List[str]
+    downsampling: bool
+    output_capacity: bool
+    scale_test: bool
+    output_time: bool
+    steps: int
+    
+    
 
 
 

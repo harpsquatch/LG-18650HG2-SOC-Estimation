@@ -1,28 +1,28 @@
 import os
-import urllib.request as request
-import zipfile
 from SOCEst import logger
-from SOCEst.utils.common import get_size
 from pathlib import Path
 from SOCEst.entity.config_entity import (DataTransformationConfig)   
 import pandas as pd
+import numpy as np 
+from datetime import datetime, timedelta
+from sklearn.preprocessing import MinMaxScaler
+
 
 class DataTransformation: 
     def __init__(self, config: DataTransformationConfig): 
         self.config = config
     
-    # include downsampling for the timestep: 100ms or 1s.
-    def get_discharge_whole_cycle(self, train_names, test_names, downsampling=True, output_capacity=False, scale_test=False, output_time=False):
-        train = self._get_data(train_names, downsampling, output_capacity, output_time)
-        test = self._get_data(test_names, downsampling, output_capacity, output_time)
-        train, test = self._scale_x(train, test, scale_test=scale_test)        
-        return (train, test) 
+    def get_discharge_whole_cycle(self):
+        train = self._get_data(self.config.train_names, self.config.downsampling, self.config.output_capacity, self.config.output_time)
+        test = self._get_data(self.config.test_names, self.config.downsampling, self.config.output_capacity, self.config.output_time)
+        train, test = self._scale_x(train, test, scale_test=self.config.scale_test)
+        return (train, test)
 
         
     def _get_data(self, names, downsampling, output_capacity, output_time=False):
         cycles = []
         for name in names:
-            cycle = pd.read_csv(self.path + name + '.csv', skiprows=30)
+            cycle = pd.read_csv(self.config.data_path + name + '.csv', skiprows=30)
             cycle.columns = ['Time Stamp','Step','Status','Prog Time','Step Time','Cycle',
                             'Cycle Level','Procedure','Voltage','Current','Temperature','Capacity','WhAccu','Cnt','Empty']
             cycle = cycle[(cycle["Status"] == "TABLE") | (cycle["Status"] == "DCH")]
@@ -48,7 +48,7 @@ class DataTransformation:
                     y = cycle[["SoC Percentage"]].to_numpy()
 
             if np.isnan(np.min(x)) or np.isnan(np.min(y)):
-                self.logger.info("There is a NaN in cycle " + name + ", removing row")
+                logger.info("There is a NaN in cycle " + name + ", removing row")
                 x = x[~np.isnan(x).any(axis=1)]
                 y = y[~np.isnan(y).any(axis=1)].reshape(-1, y.shape[1])
 
@@ -95,7 +95,7 @@ class DataTransformation:
         train_y = self._split_cycle(train_y, steps)
         test_x = self._split_cycle(test_x, steps)
         test_y = self._split_cycle(test_y, steps)
-        self.logger.info("Train x: %s, train y: %s | Test x: %s, test y: %s" %
+        logger.info("Train x: %s, train y: %s | Test x: %s, test y: %s" %
                          (train_x.shape, train_y.shape, test_x.shape, test_y.shape))
         return (train_x, train_y, test_x, test_y)
 
@@ -127,10 +127,10 @@ class DataTransformation:
     # get_discharge_multiple_step
     #
     #################################
-    def get_discharge_multiple_step(self, cycles, steps):
-        train_x, train_y = self._split_to_multiple_step(cycles[0], steps)
-        test_x, test_y = self._split_to_multiple_step(cycles[1], steps)
-        self.logger.info("Train x: %s, train y: %s | Test x: %s, test y: %s" %
+    def get_discharge_multiple_step(self, cycles):
+        train_x, train_y = self._split_to_multiple_step(cycles[0], self.config.steps)
+        test_x, test_y = self._split_to_multiple_step(cycles[1], self.config.steps)
+        logger.info("Train x: %s, train y: %s | Test x: %s, test y: %s" %
                          (train_x.shape, train_y.shape, test_x.shape, test_y.shape))
         return (train_x, train_y, test_x, test_y)
 
@@ -147,13 +147,13 @@ class DataTransformation:
                 y = np.concatenate((y, next_y))
         return x, y
 
-    def keep_only_y_end(self, y, step, is_stateful=False):
+    def keep_only_y_end(self, y, is_stateful=False):
         if is_stateful:
-            return y[:,:,::step]
+            return y[:,:,::self.config.steps]
         else:
-            return y[:,::step]
+            return y[:,::self.config.steps]
     
-    
+        
     
     
     

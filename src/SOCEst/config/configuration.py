@@ -19,7 +19,6 @@ class ConfigurationManager:
 
         create_directories([self.config.artifacts_root]) #artifacts_root = artifacts so new folder artifact is created with this
 
-
     
     def get_data_ingestion_config(self) -> DataIngestionConfig:
         config = self.config.data_ingestion  #take the configuration
@@ -43,5 +42,14 @@ class ConfigurationManager:
         
         data_transformation_config = DataTransformationConfig(     #Here the data ingestion class is being inititalised by passing the neccessary variables. 
             root_dir=config.root_dir,     
-            data_path=config.data_path        
+            data_path=config.data_path,
+            train_names = config.train_names,
+            test_names = config.test_names,
+            downsampling = config.downsampling,
+            output_capacity = config.output_capacity,
+            scale_test = config.scale_test,
+            output_time = config.output_time,
+            steps = config.steps            
         )
+        
+        return data_transformation_config

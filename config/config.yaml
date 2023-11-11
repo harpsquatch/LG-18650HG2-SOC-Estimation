@@ -10,7 +10,13 @@ data_ingestion:
 data_transformation: 
   root_dir: artifacts/data_transformation
   data_path: artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script\LG_HG2_Original_Dataset_McMasterUniversity_Jan_2020
-
+  train_names: ['\0degC\589_LA92']
+  test_names: ['\0degC\589_Mixed1']
+  downsampling: True
+  output_capacity: False 
+  scale_test: False 
+  output_time: False
+  steps: 30 
 
 
 

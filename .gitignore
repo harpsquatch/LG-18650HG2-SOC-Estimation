@@ -580,3 +580,5 @@ artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural
 artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Prepared_Dataset_McMasterUniversity_Jan_2020/Data Preparation Steps for FNN Based SOC Estimator.pptx
 artifacts/data_ingestion/LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script/LG_HG2_Prepared_Dataset_McMasterUniversity_Jan_2020/LGHG2@n10C_to_25degC.zip
 artifacts/data_ingestion/data.zip
+artifacts/data_transformation/test.csv
+artifacts/data_transformation/train.csv
