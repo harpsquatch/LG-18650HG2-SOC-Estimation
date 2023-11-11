@@ -6,6 +6,8 @@ from SOCEst import logger
 
 STAGE_NAME = "Data Ingestion stage"
 
+
+#This pipeline decides which functions to use from the data_ingestion class and the same will be performed in the main file. 
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass

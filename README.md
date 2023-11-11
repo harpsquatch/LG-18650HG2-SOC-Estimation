@@ -12,3 +12,23 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+#Data Ingestion: 
+
+config.yaml + config entity > Create Configuration > data_ingestion function > Pipeline > Main to run the pipeline 
+config.yaml takes the parameters from users
+config entity defines the configuration for the data_ingestion 
+Then the above two are matched together to create the data_ingestion configuration 
+Based on the above config, different fucntions are created in data ingestion files 
+Based on the config files, selected funtions are perofomed from the data ingestion class 
+Finally the pipline is run in the main file.
+
+
+
+#Data Transformation: 
+
+
+
+
+#Data Validation 
