@@ -2,6 +2,7 @@ from SOCEst.constants import *                                  #Constants store
 from SOCEst.utils.common import read_yaml, create_directories   #From common, common functionalities are being imported 
 from SOCEst.entity.config_entity import DataIngestionConfig     #Dataingestion configuration is being imported from config file where the class structure has been defined. 
 from SOCEst.entity.config_entity import DataTransformationConfig
+from SOCEst.entity.config_entity import ModelTrainerConfig
 
 # This class will be responsible for managing configuration files. It reads config.yaml and creates necessary necessary directories in the artifacts folder  
 class ConfigurationManager:  
@@ -37,6 +38,7 @@ class ConfigurationManager:
     
     def get_data_transformation_config(self) -> DataTransformationConfig: 
         config = self.config.data_transformation
+        params = self.params.data_parameters
         
         create_directories([config.root_dir]) #Create the root_dir = artifacts/data_transformation 
         
@@ -45,11 +47,49 @@ class ConfigurationManager:
             data_path=config.data_path,
             train_names = config.train_names,
             test_names = config.test_names,
-            downsampling = config.downsampling,
-            output_capacity = config.output_capacity,
-            scale_test = config.scale_test,
-            output_time = config.output_time,
-            steps = config.steps            
+            downsampling = params.downsampling,
+            output_capacity = params.output_capacity,
+            scale_test = params.scale_test,
+            output_time = params.output_time,
+            steps = params.steps            
         )
         
         return data_transformation_config
+    
+    
+    def get_model_trainer_config(self) -> ModelTrainerConfig: 
+        config = self.config.model_trainer
+        params = self.params.model_parameters
+        
+        create_directories([config.root_dir]) #Create the root_dir = artifacts/data_transformation 
+        
+        model_trainer_config = ModelTrainerConfig(
+            root_dir=config.root_dir,     
+            model_name=config.model_name,
+            steps = params.steps,
+            num_features = params.num_features,
+            dense_out = params.dense_out,
+            num_hidden_units_1 = params.num_hidden_units_1,
+            patience = params.patience,
+            epochs = params.epochs,
+            max_tuner = params.max_tuner,
+            batch_size = params.batch_size,
+            validation_split = params.validation_split,
+            numberOfLayers = params.numberOfLayers,
+            numberOfLSTMLayers = params.numberOfLSTMLayers,
+            maxUnits = params.maxUnits,
+            maxLSTMunits = params.maxLSTMunits,
+            stepLSTMunit = params.stepLSTMunit,
+            stepUnit = params.stepUnit,     
+            numberOfDenseLayers = params.numberOfDenseLayers,
+            maxDenseUnits = params.maxDenseUnits,
+            stepDenseUnit = params.stepDenseUnit,
+            maxDropout = params.maxDropout,
+            dropoutRateStep = params.dropoutRateStep,
+            layer = params.layer, 
+            objective_metric = params.objective_metric, 
+            save_dir = config.save_dir, 
+            experiment_name = config.experiment_name 
+        )
+        
+        return model_trainer_config

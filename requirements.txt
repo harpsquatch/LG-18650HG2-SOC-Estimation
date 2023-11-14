@@ -12,4 +12,7 @@ tqdm
 #types - pyYAML
 Flask 
 Flask-Cors 
+tensorflow
+keras
+keras_tuner
 -e. 

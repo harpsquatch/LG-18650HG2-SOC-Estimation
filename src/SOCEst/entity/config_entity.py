@@ -23,6 +23,34 @@ class DataTransformationConfig:
     output_time: bool
     steps: int
     
+@dataclass(frozen=True)   #This is a decorator
+class ModelTrainerConfig:
+    root_dir: Path 
+    model_name: str
+    steps: int
+    num_features: int
+    dense_out: int
+    num_hidden_units_1: int
+    patience: int
+    epochs: int
+    max_tuner: int
+    batch_size: int
+    validation_split: int
+    numberOfLayers: int
+    numberOfLSTMLayers: int
+    maxUnits: int
+    maxLSTMunits: int
+    stepLSTMunit: int
+    stepUnit: int
+    numberOfDenseLayers: int
+    maxDenseUnits: int
+    stepDenseUnit: int
+    maxDropout: int
+    dropoutRateStep: int
+    layer: str
+    objective_metric: str
+    save_dir: Path
+    experiment_name: str
     
 
 

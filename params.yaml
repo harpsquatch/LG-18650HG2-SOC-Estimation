@@ -1,1 +1,31 @@
-key: val
+data_parameters:
+  downsampling: True
+  output_capacity: False 
+  scale_test: False 
+  output_time: False
+  steps: 30 
+
+model_parameters:
+  steps: 30
+  num_features: 3 
+  dense_out: 1
+  num_hidden_units_1: 20
+  patience: 50
+  epochs: 1000
+  max_tuner: 70
+  batch_size: 128
+  validation_split: 0.2
+  numberOfLayers: 2
+  numberOfLSTMLayers: 4
+  maxUnits: 64
+  maxLSTMunits: 64
+  stepLSTMunit: 8
+  stepUnit: 4
+  numberOfDenseLayers: 4
+  maxDenseUnits: 64
+  stepDenseUnit: 8
+  maxDropout: 0.5
+  dropoutRateStep: 0.1
+  layer: 'bilstm' # Change Here 'lstm', 'bilstm', 'gru', 'bigru'
+  objective_metric: 'mse'
+  #project: '', # Model being used for CALCE
