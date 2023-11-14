@@ -31,4 +31,8 @@ Finally the pipline is run in the main file.
 
 
 
-#Data Validation 
+
+MLFLOW_TRACKING_URI=https://dagshub.com/harpreets924/LG-18650HG2-SOC-Estimation.mlflow \
+MLFLOW_TRACKING_USERNAME=harpreets924 \
+MLFLOW_TRACKING_PASSWORD=8eb72334d69388c2b0a5203d6cf274b6d877267a \
+python script.py

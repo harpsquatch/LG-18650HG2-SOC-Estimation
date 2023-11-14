@@ -9,8 +9,10 @@ import joblib
 from SOCEst.entity.config_entity import ModelEvaluationConfig
 from SOCEst.utils.common import save_json
 from pathlib import Path
-from keras_flops import get_flops
-
+#import get_flops
+import h5py
+import math
+from tensorflow.keras.models import load_model
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
@@ -18,18 +20,17 @@ class ModelEvaluation:
 
     
     def eval_metrics(self,model,actual, pred):
-        rmse = np.sqrt(mean_squared_error(actual, pred))
-        mae = mean_absolute_error(actual, pred)
+        rmse = math.sqrt(np.mean(np.square(np.subtract(pred, actual))))/np.mean(actual) 
         mse = np.mean(np.mean(np.square(np.subtract(pred, actual))))
-        r2 = r2_score(actual, pred)
-        flops = get_flops(model, batch_size=64)
+        #flops = get_flops(model, batch_size=64)
         
-        return rmse, mae, mse, r2, flops
+        return rmse, mse
     
 
     def log_into_mlflow(self,test_x,test_y):
-
-        model = joblib.load(self.config.model_path)
+        
+        with h5py.File(self.config.model_path, 'r') as file:
+            model = load_model(file)
 
         mlflow.set_registry_uri(self.config.mlflow_uri)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
@@ -39,19 +40,17 @@ class ModelEvaluation:
 
             predicted_SOC = model.predict(test_x)
 
-            (rmse, mae, mse, r2, flops) = self.eval_metrics(test_y, predicted_SOC)
+            (rmse, mse) = self.eval_metrics(model, test_y, predicted_SOC)
             
             # Saving metrics as local
-            scores = {"rmse": rmse, "mae": mae, "r2": r2 ,"mse":mse,  "flops":flops }
+            scores = {"rmse": rmse,"mse":mse } #,  "flops":flops
             save_json(path=Path(self.config.metric_file_name), data=scores)
 
             mlflow.log_params(self.config.all_params)
 
             mlflow.log_metric("rmse", rmse)
-            mlflow.log_metric("r2", r2)
-            mlflow.log_metric("mae", mae)
-            mlflow.log_metric("mse", mae)
-            mlflow.log_metric("flops", mae)
+            mlflow.log_metric("mse", mse)
+           # mlflow.log_metric("flops", mae)
 
 
             # Model registry does not work with file store

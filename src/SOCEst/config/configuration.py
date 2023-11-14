@@ -109,7 +109,7 @@ class ConfigurationManager:
             model_path = config.model_path,
             all_params=params,
             metric_file_name = config.metric_file_name,
-            mlflow_uri="https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow",
+            mlflow_uri="https://dagshub.com/harpreets924/LG-18650HG2-SOC-Estimation.mlflow",
            
         )
 
