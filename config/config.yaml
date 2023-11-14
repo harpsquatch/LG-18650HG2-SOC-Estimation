@@ -19,6 +19,11 @@ model_trainer:
   model_name: model.h5
 
 
+model_evaluation:
+  root_dir: artifacts/model_evaluation
+  model_path: artifacts\model_trainer\results\ABC\trained_model\ABC_best.h5
+  metric_file_name: artifacts/model_evaluation/metrics.json
+
 
 
 

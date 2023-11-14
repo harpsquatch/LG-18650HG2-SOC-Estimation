@@ -52,6 +52,16 @@ class ModelTrainerConfig:
     save_dir: Path
     experiment_name: str
     
+    
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    model_path: Path
+    all_params: dict
+    metric_file_name: Path
+    mlflow_uri: str
+    
 
 
 

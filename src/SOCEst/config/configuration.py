@@ -3,6 +3,8 @@ from SOCEst.utils.common import read_yaml, create_directories   #From common, co
 from SOCEst.entity.config_entity import DataIngestionConfig     #Dataingestion configuration is being imported from config file where the class structure has been defined. 
 from SOCEst.entity.config_entity import DataTransformationConfig
 from SOCEst.entity.config_entity import ModelTrainerConfig
+from SOCEst.entity.config_entity import ModelEvaluationConfig
+
 
 # This class will be responsible for managing configuration files. It reads config.yaml and creates necessary necessary directories in the artifacts folder  
 class ConfigurationManager:  
@@ -93,3 +95,22 @@ class ConfigurationManager:
         )
         
         return model_trainer_config
+    
+    
+    
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params.model_parameters
+
+        create_directories([config.root_dir])
+
+        model_evaluation_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            model_path = config.model_path,
+            all_params=params,
+            metric_file_name = config.metric_file_name,
+            mlflow_uri="https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow",
+           
+        )
+
+        return model_evaluation_config
