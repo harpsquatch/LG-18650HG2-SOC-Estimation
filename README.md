@@ -50,5 +50,5 @@ If you encounter any issues, have questions, or want to suggest improvements, pl
 
 ## Acknowledgments:
 Description: Tests were performed at McMaster University in Hamilton, Ontario, Canada by Dr. Phillip Kollmeyer (phillip.kollmeyer@gmail.com). Reference: https://data.mendeley.com/datasets/cp3473x7xv/3
-The project is developed in association with MG2 Lab, Politecnico di Milano
-
+The project is developed in association with MG2 Lab, Politecnico di Milano. 
+Authors: panagiotis.eleftheriadis@polimi.it, harpreetsingh.sohal@mail.polimi.it
