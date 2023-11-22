@@ -6,17 +6,18 @@ from SOCEst import logger
 STAGE_NAME = "Model evaluation stage"
 
 class ModelEvaluationTrainingPipeline:
-    def __init__(self):
-        pass
+    def __init__(self, test_x, test_y):
+        self.test_x = test_x
+        self.test_y = test_y
 
     def main(self):
-        data_pipeline = DataTransformationTrainingPipeline()
-        train_x, train_y, test_x, test_y = data_pipeline.main()
+       # data_pipeline = DataTransformationTrainingPipeline()
+       # train_x, train_y, test_x, test_y = data_pipeline.main()
         
         config = ConfigurationManager()
         model_evaluation_config = config.get_model_evaluation_config()
         model_evaluation_config = ModelEvaluation(config=model_evaluation_config)
-        model_evaluation_config.log_into_mlflow(test_x,test_y)
+        model_evaluation_config.log_into_mlflow(self.test_x,self.test_y)
 
 
 

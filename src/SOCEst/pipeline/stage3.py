@@ -10,18 +10,20 @@ import os
 
 STAGE_NAME = "Model Training Stage"
 class ModelTrainingPipeline:
-    def __init__(self):
-        pass
+    def __init__(self, train_x, train_y):
+        self.train_x = train_x
+        self.train_y = train_y
+        
     def main(self):
-        data_pipeline = DataTransformationTrainingPipeline()
-        train_x, train_y, test_x, test_y = data_pipeline.main()
+        #data_pipeline = DataTransformationTrainingPipeline()
+        #train_x, train_y, test_x, test_y = data_pipeline.main()
         
         config = ConfigurationManager()
         model_trainer_config = config.get_model_trainer_config()
         model_trainer = ModelTrainer(config=model_trainer_config)
-        model, history = model_trainer.tune_modelClass(train_x, train_y)
+        model, history = model_trainer.tune_modelClass(self.train_x, self.train_y)
         model.summary()
-        model.save(model_trainer.directory + '/models')
+        #model.save(model_trainer.directory + '/models')
         print("Model has been trainer and is saved in the location specified")
         
 if __name__ == '__main__':

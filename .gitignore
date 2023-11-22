@@ -870,3 +870,4 @@ artifacts/model_trainer/results/ABC/models/saved_model.pb
 artifacts/model_trainer/results/ABC/models/variables/variables.data-00000-of-00001
 artifacts/model_trainer/results/ABC/models/variables/variables.index
 artifacts/model_trainer/results/ABC/trained_model/ABC_best.h5
+artifacts/model_trainer/results/ABC/trained_model/LG.h5

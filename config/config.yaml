@@ -15,13 +15,13 @@ data_transformation:
 
 model_trainer:
   root_dir: artifacts/model_trainer
-  experiment_name: ABC 
-  model_name: model.h5
+  experiment_name: experiment_1 
+  model_name: experiment_1.h5
 
 
 model_evaluation:
   root_dir: artifacts/model_evaluation
-  model_path: artifacts\model_trainer\results\ABC\trained_model\ABC_best.h5
+  model_path: artifacts\model_trainer\results\ABC\trained_model\experiment_1_best.h5
   metric_file_name: artifacts/model_evaluation/metrics.json
 
 
