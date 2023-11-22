@@ -160,7 +160,7 @@ class ModelTrainer:
         self.max_tuner = self.config.max_tuner
         self.objective_metric = self.config.objective_metric
         self.patience = self.config.patience
-        self.directory = self.config.root_dir + self.config.experiment_name
+        self.directory = self.config.root_dir
         self.epochs = self.config.epochs
         self.batch_size = self.config.batch_size
         self.validation_split = self.config.validation_split
@@ -178,7 +178,7 @@ class ModelTrainer:
         )
         es = EarlyStopping(monitor='val_loss', patience=self.patience) #What is val_loss? 
         
-        mc = ModelCheckpoint(self.directory + '/trained_model/%s_best.h5' % self.config.experiment_name, save_best_only=True, monitor='val_loss')
+        mc = ModelCheckpoint(self.directory + '/%s.h5' % self.config.experiment_name, save_best_only=True, monitor='val_loss')
         
         history = tuner.search(
             x=X,

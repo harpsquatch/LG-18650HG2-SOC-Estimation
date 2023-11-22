@@ -27,9 +27,9 @@ class ModelEvaluation:
         return rmse, mse
     
 
-    def log_into_mlflow(self,test_x,test_y):
+    def log_into_mlflow(self,experiment_path,test_x,test_y):
         
-        with h5py.File(self.config.model_path, 'r') as file:
+        with h5py.File(experiment_path, 'r') as file:
             model = load_model(file)
 
         mlflow.set_registry_uri(self.config.mlflow_uri)

@@ -67,7 +67,7 @@ class ConfigurationManager:
         
         model_trainer_config = ModelTrainerConfig(
             root_dir=config.root_dir,     
-            model_name=config.model_name,
+            #model_name=config.model_name,
             steps = params.steps,
             num_features = params.num_features,
             dense_out = params.dense_out,
@@ -90,7 +90,7 @@ class ConfigurationManager:
             dropoutRateStep = params.dropoutRateStep,
             layer = params.layer, 
             objective_metric = params.objective_metric, 
-            save_dir = config.save_dir, 
+            #save_dir = config.save_dir, 
             experiment_name = config.experiment_name 
         )
         

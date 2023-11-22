@@ -26,7 +26,7 @@ class DataTransformationConfig:
 @dataclass(frozen=True)   #This is a decorator
 class ModelTrainerConfig:
     root_dir: Path 
-    model_name: str
+    #model_name: str
     steps: int
     num_features: int
     dense_out: int
@@ -49,7 +49,7 @@ class ModelTrainerConfig:
     dropoutRateStep: int
     layer: str
     objective_metric: str
-    save_dir: Path
+    #save_dir: Path
     experiment_name: str
     
     

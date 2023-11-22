@@ -11,8 +11,8 @@ model_parameters:
   dense_out: 1
   num_hidden_units_1: 20
   patience: 50
-  epochs: 1000
-  max_tuner: 70
+  epochs: 1
+  max_tuner: 1
   batch_size: 128
   validation_split: 0.2
   numberOfLayers: 2
