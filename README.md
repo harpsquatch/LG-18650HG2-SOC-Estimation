@@ -1,5 +1,4 @@
 # LG-18650HG2-SOC-Estimation
-# LG-18650HG2 Battery SOC Estimation
 
 Welcome to the LG-18650HG2 Battery SOC Estimation repository! This project aims to estimate the State of Charge (SOC) of LG-18650HG2 batteries using Bayesian Optimization and Neural Network models.
 
